@@ -42,7 +42,7 @@ Geliştirme ortamında projeyi yerel olarak çalıştırmak için:
 
 1. Depoyu klonlayın:
    ```
-   git clone [https://github.com/CigkofteXL/varietyshop.com.tr.git](https://github.com/CigkofteXL/varietyshop.com.tr.git)
+   git clone https://github.com/CigkofteXL/varietyshop.com.tr.git
 
 
 
