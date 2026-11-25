@@ -1,5 +1,6 @@
 # 🛍️ Varietyshop (varietyshop.com.tr) — Web Application
 
+> **Canlı ApplyBAU YBS Portföyü (Harun Durmuş — VarietyShop & Haduva):** [https://varietyshop.com.tr](https://varietyshop.com.tr)
 > **Status:** ⚠️ ARCHIVED / INACTIVE  
 > *This project is no longer active in production and is shared on GitHub for archive, showcase, and educational purposes.*
 
